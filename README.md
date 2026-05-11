@@ -4,7 +4,9 @@ Aplicación web tipo SPA desarrollada en **JavaScript**, **HTML** y **CSS**, dis
 Incluye validación avanzada, modo oscuro, filtrado en tiempo real, categorías visuales y múltiples interacciones del usuario.
 
 ## 📌 Acceso a DEMO 
+
 👉 https://gestor-dinamico-de-eventos.vercel.app
+
 ---
 
 ## 🚀 Características principales
