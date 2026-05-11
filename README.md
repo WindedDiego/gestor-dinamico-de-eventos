@@ -3,6 +3,8 @@
 Aplicación web tipo SPA desarrollada en **JavaScript**, **HTML** y **CSS**, diseñada para crear, gestionar y filtrar eventos de forma dinámica.  
 Incluye validación avanzada, modo oscuro, filtrado en tiempo real, categorías visuales y múltiples interacciones del usuario.
 
+## 📌 Acceso a DEMO 
+👉 https://gestor-dinamico-de-eventos.vercel.app
 ---
 
 ## 🚀 Características principales
@@ -104,6 +106,7 @@ Incluye media queries para pantallas pequeñas:
 <img width="1396" height="1992" alt="image" src="https://github.com/user-attachments/assets/697eab41-021d-4e02-8b0b-2d4068e4244d" />
 
 ---
+
 
 🧑‍💻 Autor
 Diego Alberto Rodríguez Ramos  
